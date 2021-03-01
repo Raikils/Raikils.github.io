@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['setbackground_70',['setBackground',['../class_plot.html#a5e172f1707a63bc1a494f55510398e55',1,'Plot']]],
+  ['setcolor_5fbar_71',['setColor_bar',['../class_plot.html#afaf24513fa5d37bb308507752e8cf5ac',1,'Plot']]],
+  ['setcolor_5fbars_72',['setColor_bars',['../class_plot.html#a6b235bb109da766fc700f3697ac21799',1,'Plot']]],
+  ['setdata_73',['setData',['../class_plot.html#affcd68b879960da31b5a2c47c71d2dcb',1,'Plot']]],
+  ['seteditordata_74',['setEditorData',['../class_table_delagate.html#a94fa2d4e8cf3b910a6416c0c3c1b9f83',1,'TableDelagate']]],
+  ['setlast_75',['setLast',['../class_plot.html#a0ffc1bc0abc2cb26f837d5bdc6e24511',1,'Plot']]],
+  ['setlegend_76',['setLegend',['../class_plot.html#a31cba64a96cf8b2a4f519107ff19f9b3',1,'Plot']]],
+  ['setlistwidgetitem_77',['setListWidgetItem',['../class_plot.html#a9108f01761f9ba625559a673d7843c9d',1,'Plot']]],
+  ['setmain_5fx_78',['setMain_x',['../class_plot.html#ab97582e5edc5a6fb4ecc7e1a32e38dc6',1,'Plot']]],
+  ['setmodeldata_79',['setModelData',['../class_table_delagate.html#ae7bba45d62ae18b5195b898b4a782e98',1,'TableDelagate']]],
+  ['setname_80',['setName',['../class_plot.html#afc00ba4c1c94fba9c2dd19f0e6135bf3',1,'Plot']]],
+  ['setname_5fbar_81',['setName_bar',['../class_plot.html#a006e56058abe16059f519c9d0c6c6724',1,'Plot']]],
+  ['setname_5fbars_82',['setName_bars',['../class_plot.html#a6b41a6dc64bcf1e11aed19004b821398',1,'Plot']]],
+  ['setnum_83',['setNum',['../class_plot.html#a8f9ee38d26191eb6be47d7a16042ba47',1,'Plot']]],
+  ['setticker_84',['setTicker',['../class_plot.html#a69b01ebf0d125a1cd2a871a415222889',1,'Plot']]],
+  ['setticks_5fname_85',['setTicks_name',['../class_plot.html#a79630f5c032b5eb422c803771fc3ab13',1,'Plot']]],
+  ['setxaxis_86',['setXAxis',['../class_plot.html#acf5a4b99c90952dc5e150b4cce2045dc',1,'Plot']]],
+  ['setyaxis_87',['setYAxis',['../class_plot.html#a9ecf01e97263814f4b91c4d1c8db73d3',1,'Plot']]]
+];
